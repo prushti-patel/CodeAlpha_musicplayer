@@ -19,8 +19,8 @@ JavaScript: Managing audio playback, playlist logic, and event handling.
 
 ## 🌐 Live Demo
 You can view the live version of this project here:
-https://your-github-username.github.io/music-player/
-(Please replace 'your-github-username' with your actual GitHub username).
+https://prushti-patel.github.io/CodeAlpha_musicplayer/
+
 
 ## 📂 How to Run Locally
 Clone this repository to your local machine.
